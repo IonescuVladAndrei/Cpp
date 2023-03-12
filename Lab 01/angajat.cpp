@@ -2,7 +2,7 @@
 
 Angajat::Angajat()
 {
-    std::cout << "Constructor simplu" << std::endl;
+    //std::cout << "Constructor simplu" << std::endl;
     this->varsta = 0;
     strcpy(this->nume, "");
     strcpy(this->CNP, "");
