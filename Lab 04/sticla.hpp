@@ -9,6 +9,7 @@ public:
     Sticla();
     Sticla(int, char*, int, char*);
     Sticla(const Sticla&);
+    ~Sticla();
 
     Sticla& operator=(const Sticla&);
     friend std::istream& operator>>(std::istream&, Sticla&);
