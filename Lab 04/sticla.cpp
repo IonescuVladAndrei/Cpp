@@ -21,6 +21,12 @@ Sticla::Sticla(const Sticla &obj) : Dop(obj)
     strcpy(this->marca, obj.marca);
 }
 
+Sticla::~Sticla()
+{
+    delete[] this->tip;
+    delete[] this->marca;
+}
+
 Sticla &Sticla::operator=(const Sticla &obj)
 {
     if (this != &obj)
