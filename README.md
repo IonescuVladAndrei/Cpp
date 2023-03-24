@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# Object Oriented Programming C++
 
 ## Lab 01
 - Creare obiecte
