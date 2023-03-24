@@ -5,16 +5,16 @@
 
 class Banana : public Fructe // pret final = pret bucata
 {
-  int pret_bucata; // in kilograme
+    int pret_bucata; // in kilograme
 public:
-  Banana();
-  Banana(int);
-  Banana(const Banana &);
+    Banana();
+    Banana(int);
+    Banana(const Banana &);
 
-  Banana &operator=(const Banana &);
-  void afisare();
-  double getPretFinal();
-  int ord();
+    Banana &operator=(const Banana &);
+    void afisare();
+    double getPretFinal();
+    int ord();
 };
 
 #endif
