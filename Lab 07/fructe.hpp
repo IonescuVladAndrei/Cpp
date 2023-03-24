@@ -6,10 +6,10 @@
 class Fructe
 {
 public:
-  virtual void afisare() = 0;
-  ~Fructe();
-  virtual int ord() = 0;
-  virtual double getPretFinal() = 0;
+    virtual void afisare() = 0;
+    ~Fructe();
+    virtual int ord() = 0;
+    virtual double getPretFinal() = 0;
 };
 
 #endif
