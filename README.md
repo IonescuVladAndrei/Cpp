@@ -22,3 +22,7 @@
 ## Lab 7, 9
 - Interfata
 - Alocare dinamica de memorie pentru vector neomogen de obiecte
+
+## Tema extra
+- Alocare dinamica de memorie pentru matrici
+- Citire/Scriere in/din fisiere .txt
