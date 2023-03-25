@@ -19,6 +19,6 @@
 ## Lab 05
 - Mostenire clase
 
-## Lab 7, 10
+## Lab 7, 9
 - Interfata
 - Alocare dinamica de memorie pentru vector neomogen de obiecte
