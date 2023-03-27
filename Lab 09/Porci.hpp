@@ -4,7 +4,7 @@
 #include <iostream>
 #include "Baza.hpp"
 
-class Porci : public Baza
+class Porci : virtual public Baza
 {
     int nr;
     int grPeZi;
