@@ -19,9 +19,20 @@
 ## Lab 05
 - Mostenire clase
 
-## Lab 7, 9
+## Lab 06
+-
+
+## Lab 07
+- Mostenire clase
+- Alocare dinamica de memorie pentru vector neomogen de obiecte
+
+## Lab 08
+
+## Lab 09
 - Interfata
 - Alocare dinamica de memorie pentru vector neomogen de obiecte
+
+## Lab 10
 
 ## Tema extra
 - Alocare dinamica de memorie pentru matrici
