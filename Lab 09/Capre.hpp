@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include "Baza.hpp"
-class Capre : public Baza
+class Capre : virtual public Baza
 {
     int nr;
     int nutPeZi;
