@@ -33,6 +33,9 @@
 - Alocare dinamica de memorie pentru vector neomogen de obiecte
 
 ## Lab 10
+- Citire/scriere din/in fisiere .txt
+- Populare cu date aleatorii
+- Alocare dinamica de memorie pentru matrice neomogena de obiecte
 
 ## Tema extra
 - Alocare dinamica de memorie pentru matrici
