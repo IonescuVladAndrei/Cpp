@@ -1,0 +1,13 @@
+12
+BrownTabby
+BrownTabbyWithWhite
+GreyTabby
+GreyTabbyWithWhite
+OrangeTabby
+OrangeTabbyWithWhite
+Calico
+Tortoiseshell
+Torbie
+SolidColor
+Bi-Color
+Purebred
