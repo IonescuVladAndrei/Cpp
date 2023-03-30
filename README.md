@@ -20,7 +20,8 @@
 - Mostenire clase
 
 ## Lab 06
--
+- Template (int, double, obiecte)
+- Alocare dinamica de memorie pentru vector de obiecte
 
 ## Lab 07
 - Mostenire clase
