@@ -28,6 +28,7 @@ PopulareDatePisici::PopulareDatePisici(int nrOfCats)
             strcpy(catNames[i], inputData.c_str());
             // std::cout << "Nume pisica " << i + 1 << ": " << catNames[i] << std::endl;
         }
+        inputCatNames.close();
     }
     else
         std::cout << "Eroare la deschidere fisier CatNamesInput.txt\n";
@@ -45,6 +46,7 @@ PopulareDatePisici::PopulareDatePisici(int nrOfCats)
             strcpy(catDesrip[i], inputData.c_str());
             // std::cout << "Nume pisica " << i + 1 << ": " << catDesrip[i] << std::endl;
         }
+        inputCatDescrip.close();
     }
     else
         std::cout << "Eroare la deschidere fisier CatDescripInput.txt\n";
@@ -61,6 +63,7 @@ PopulareDatePisici::PopulareDatePisici(int nrOfCats)
             strcpy(catColors[i], inputData.c_str());
             //std::cout << "Nume pisica " << i + 1 << ": " << catColors[i] << std::endl;
         }
+        inputCatColor.close();
     }
     else
         std::cout << "Eroare la deschidere fisier CatColorsInput.txt\n";
@@ -82,6 +85,7 @@ PopulareDatePisici::PopulareDatePisici(int nrOfCats)
             outputCatData << catNames[randCatName] << " " << randCatAge << " " << catColors[randCatColor] << " " << randCatVac << "\n"
                           << catDesrip[randCatDescrip] << "\n";
         }
+        outputCatData.close();
     }
     else
         std::cout << "Eroare la deschidere fisier CatDescripInput.txt\n";
