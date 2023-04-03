@@ -48,6 +48,7 @@ int main()
         for (i = 0; i < size; i++)
             if(v[i].getSalariu() == max)
                 v[i].afisare();
+        myFile.close();
     }
     else
         std::cout << "Unable to open file" << std::endl;
