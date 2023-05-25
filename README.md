@@ -27,8 +27,6 @@
 - Mostenire clase
 - Alocare dinamica de memorie pentru vector neomogen de obiecte
 
-## Lab 08
-
 ## Lab 09
 - Interfata
 - Alocare dinamica de memorie pentru vector neomogen de obiecte
